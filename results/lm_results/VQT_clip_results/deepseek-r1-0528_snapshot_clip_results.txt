@@ -1,0 +1,758 @@
+Processing 150 IDs...
+Found 597 image pairs to process...
+Processing 521 existing prediction images...
+ID AdditiveCipher, image 1: 0.8372
+ID AdditiveCipher, image 2: 0.7589
+ID AdditiveCipher, image 4: 0.7673
+ID AdditiveCipher, image 3: 0.7914
+ID CoordinationInIonicCompounds, image 2: 0.7811
+ID CoordinationInIonicCompounds, image 4: 0.8386
+ID CoordinationInIonicCompounds, image 1: 0.8338
+ID BlockOnAFrictionlessInclinedPlane, image 2: 0.7070
+ID BlockOnAFrictionlessInclinedPlane, image 3: 0.7073
+ID BlockOnAFrictionlessInclinedPlane, image 1: 0.6676
+ID BlockOnAFrictionlessInclinedPlane, image 4: 0.7142
+ID ComparingSortingAlgorithmsOnRainbowColoredBarCharts, image 3: 0.9286
+ID ComparingSortingAlgorithmsOnRainbowColoredBarCharts, image 1: 0.9232
+ID ComparingSortingAlgorithmsOnRainbowColoredBarCharts, image 4: 0.9095
+ID ComparingSortingAlgorithmsOnRainbowColoredBarCharts, image 2: 0.9479
+ID WhenTwoRunnersMeet, image 2: 0.8823
+ID WhenTwoRunnersMeet, image 4: 0.9091
+ID WhenTwoRunnersMeet, image 3: 0.8275
+ID WhenTwoRunnersMeet, image 1: 0.8927
+ID ThePhosphorusCycle, image 4: 0.9053
+ID ThePhosphorusCycle, image 1: 0.8852
+ID ThePhosphorusCycle, image 2: 0.8807
+ID ThePhosphorusCycle, image 3: 0.8810
+ID TheBlossomAlgorithmForMaximumMatching, image 4: 0.8118
+ID TheBlossomAlgorithmForMaximumMatching, image 2: 0.8597
+ID TheBlossomAlgorithmForMaximumMatching, image 1: 0.8597
+ID TheBlossomAlgorithmForMaximumMatching, image 3: 0.8641
+ID CircularHoleDrilledInACylinder, image 2: 0.7250
+ID CircularHoleDrilledInACylinder, image 1: 0.7031
+ID CircularHoleDrilledInACylinder, image 3: 0.7031
+ID HueSaturationBrightnessHSBExplorer, image 2: 0.7300
+ID HueSaturationBrightnessHSBExplorer, image 1: 0.7608
+ID HueSaturationBrightnessHSBExplorer, image 4: 0.7776
+ID HueSaturationBrightnessHSBExplorer, image 3: 0.7395
+ID ThermokineticOscillator, image 4: 0.8745
+ID ThermokineticOscillator, image 1: 0.9504
+ID ThermokineticOscillator, image 3: 0.8801
+ID ThermokineticOscillator, image 2: 0.9254
+ID RayleighWaves, image 4: 0.9127
+ID RayleighWaves, image 3: 0.9048
+ID RayleighWaves, image 2: 0.9265
+ID RayleighWaves, image 1: 0.9144
+ID ArrheniusVersusExponentialModelForChemicalReactions, image 2: 0.9266
+ID ArrheniusVersusExponentialModelForChemicalReactions, image 4: 0.8901
+ID ArrheniusVersusExponentialModelForChemicalReactions, image 1: 0.9237
+ID ArrheniusVersusExponentialModelForChemicalReactions, image 3: 0.9218
+ID EffectOfKeywordLengthOnTheLetterFrequencyInEncryptedMessages, image 1: 0.6140
+ID EffectOfKeywordLengthOnTheLetterFrequencyInEncryptedMessages, image 2: 0.8053
+ID EffectOfKeywordLengthOnTheLetterFrequencyInEncryptedMessages, image 4: 0.7993
+ID EffectOfKeywordLengthOnTheLetterFrequencyInEncryptedMessages, image 3: 0.8040
+ID DrawdownPressureInANaturallyFracturedReservoir, image 4: 0.7804
+ID DrawdownPressureInANaturallyFracturedReservoir, image 1: 0.7526
+ID AForestGrowthCurve, image 1: 0.9100
+ID AForestGrowthCurve, image 2: 0.8843
+ID AForestGrowthCurve, image 4: 0.8181
+ID AForestGrowthCurve, image 3: 0.9049
+ID VisibilityRegionOfAPolygon, image 1: 0.7188
+ID LocalSolutionOfANonlinearODEUsingAPowerSeriesExpansion, image 2: 0.9522
+ID LocalSolutionOfANonlinearODEUsingAPowerSeriesExpansion, image 1: 0.9281
+ID LocalSolutionOfANonlinearODEUsingAPowerSeriesExpansion, image 3: 0.9228
+ID MappingLetterFrequencyToAKeyboard, image 2: 0.7022
+ID MappingLetterFrequencyToAKeyboard, image 4: 0.7227
+ID MappingLetterFrequencyToAKeyboard, image 3: 0.7252
+ID MappingLetterFrequencyToAKeyboard, image 1: 0.7247
+ID PlaneSeismicWaves, image 2: 0.7987
+ID PlaneSeismicWaves, image 4: 0.7964
+ID PlaneSeismicWaves, image 1: 0.8061
+ID SurfaceDisplacementsDueToUndergroundFaults, image 2: 0.7902
+ID SurfaceDisplacementsDueToUndergroundFaults, image 1: 0.7909
+ID SurfaceDisplacementsDueToUndergroundFaults, image 4: 0.7991
+ID SurfaceDisplacementsDueToUndergroundFaults, image 3: 0.7986
+ID VibrationsOfAHangingString, image 4: 0.8929
+ID VibrationsOfAHangingString, image 2: 0.9119
+ID VibrationsOfAHangingString, image 1: 0.8908
+ID VibrationsOfAHangingString, image 3: 0.8632
+ID OpacityExplorer2D, image 2: 0.8928
+ID OpacityExplorer2D, image 3: 0.8763
+ID OpacityExplorer2D, image 1: 0.8712
+ID OpacityExplorer2D, image 4: 0.8951
+ID GasPhaseFugacityCoefficientsForPropylene, image 2: 0.8217
+ID GasPhaseFugacityCoefficientsForPropylene, image 3: 0.8402
+ID GasPhaseFugacityCoefficientsForPropylene, image 4: 0.8587
+ID GasPhaseFugacityCoefficientsForPropylene, image 1: 0.8299
+ID RegioselectivityAndStereospecificityInDielsAlderReactions, image 1: 0.6463
+ID RegioselectivityAndStereospecificityInDielsAlderReactions, image 4: 0.6616
+ID RegioselectivityAndStereospecificityInDielsAlderReactions, image 3: 0.6111
+ID RegioselectivityAndStereospecificityInDielsAlderReactions, image 2: 0.6611
+ID AVisualProofOfVivianisTheorem, image 4: 0.9099
+ID AVisualProofOfVivianisTheorem, image 2: 0.9356
+ID AVisualProofOfVivianisTheorem, image 3: 0.9170
+ID AVisualProofOfVivianisTheorem, image 1: 0.9166
+ID DwarfPlanets, image 1: 0.8136
+ID DwarfPlanets, image 3: 0.7993
+ID DwarfPlanets, image 4: 0.7798
+ID KineticsOfCFCCatalyzedOzoneDestruction, image 3: 0.8543
+ID KineticsOfCFCCatalyzedOzoneDestruction, image 4: 0.8314
+ID KineticsOfCFCCatalyzedOzoneDestruction, image 1: 0.8388
+ID KineticsOfCFCCatalyzedOzoneDestruction, image 2: 0.8374
+ID EratosthenessMeasureOfTheEarthsCircumference, image 4: 0.7789
+ID EratosthenessMeasureOfTheEarthsCircumference, image 1: 0.7922
+ID EratosthenessMeasureOfTheEarthsCircumference, image 2: 0.7830
+ID EratosthenessMeasureOfTheEarthsCircumference, image 3: 0.7630
+ID SimpleSimulationOfTides, image 3: 0.9065
+ID SimpleSimulationOfTides, image 1: 0.9058
+ID SimpleSimulationOfTides, image 2: 0.9023
+ID EnigmaticCometHolmes, image 3: 0.8530
+ID EnigmaticCometHolmes, image 1: 0.8477
+ID EnigmaticCometHolmes, image 2: 0.8740
+ID EnigmaticCometHolmes, image 4: 0.8492
+ID TensionOfARopeWithAHangingMass, image 4: 0.8912
+ID TensionOfARopeWithAHangingMass, image 3: 0.9095
+ID TensionOfARopeWithAHangingMass, image 1: 0.9239
+ID TensionOfARopeWithAHangingMass, image 2: 0.9244
+ID SpringMassDamperSMDSystemWithProportionalDerivativePDControl, image 2: 0.6417
+ID SpringMassDamperSMDSystemWithProportionalDerivativePDControl, image 4: 0.6392
+ID SpringMassDamperSMDSystemWithProportionalDerivativePDControl, image 1: 0.6400
+ID SpringMassDamperSMDSystemWithProportionalDerivativePDControl, image 3: 0.6414
+ID VibrationOfMassesOnAString, image 2: 0.8883
+ID VibrationOfMassesOnAString, image 1: 0.8680
+ID VibrationOfMassesOnAString, image 4: 0.8357
+ID VibrationOfMassesOnAString, image 3: 0.8232
+ID JarvisMarchToFindTheConvexHullOfASetOfPointsIn2D, image 3: 0.7579
+ID JarvisMarchToFindTheConvexHullOfASetOfPointsIn2D, image 1: 0.9392
+ID JarvisMarchToFindTheConvexHullOfASetOfPointsIn2D, image 2: 0.9402
+ID DiauxicBehaviorOfYeastInAFedBatchReactor, image 3: 0.7791
+ID DiauxicBehaviorOfYeastInAFedBatchReactor, image 4: 0.7841
+ID DiauxicBehaviorOfYeastInAFedBatchReactor, image 2: 0.7674
+ID DiauxicBehaviorOfYeastInAFedBatchReactor, image 1: 0.7668
+ID SeasonalVariationsOfDayAndNight, image 4: 0.7854
+ID SeasonalVariationsOfDayAndNight, image 1: 0.8021
+ID SeasonalVariationsOfDayAndNight, image 3: 0.8160
+ID SeasonalVariationsOfDayAndNight, image 2: 0.7999
+ID UnsteadyStateDiffusionInASlab, image 3: 0.7030
+ID UnsteadyStateDiffusionInASlab, image 4: 0.7023
+ID UnsteadyStateDiffusionInASlab, image 1: 0.7030
+ID UnsteadyStateDiffusionInASlab, image 2: 0.7147
+ID CommonMethodsOfEstimatingTheAreaUnderACurve, image 3: 0.8776
+ID CommonMethodsOfEstimatingTheAreaUnderACurve, image 2: 0.7155
+ID CommonMethodsOfEstimatingTheAreaUnderACurve, image 4: 0.7806
+ID CommonMethodsOfEstimatingTheAreaUnderACurve, image 1: 0.7857
+ID VectorPlotOfHelmholtzCoilInEarthsMagneticField, image 3: 0.8147
+ID VectorPlotOfHelmholtzCoilInEarthsMagneticField, image 2: 0.8252
+ID VectorPlotOfHelmholtzCoilInEarthsMagneticField, image 1: 0.8419
+ID SimpleCaesarCipher, image 4: 0.8965
+ID SimpleCaesarCipher, image 3: 0.8983
+ID SimpleCaesarCipher, image 2: 0.8906
+ID SimpleCaesarCipher, image 1: 0.9157
+ID ApplyingGraphicsFiltersUsingConvolution, image 2: 0.7753
+ID ApplyingGraphicsFiltersUsingConvolution, image 1: 0.7739
+ID AnalyzingTheCrystallographyOfTheSH2DomainAndItsResidueContac, image 1: 0.8000
+ID AnalyzingTheCrystallographyOfTheSH2DomainAndItsResidueContac, image 4: 0.8286
+ID AnalyzingTheCrystallographyOfTheSH2DomainAndItsResidueContac, image 3: 0.8591
+ID AnalyzingTheCrystallographyOfTheSH2DomainAndItsResidueContac, image 2: 0.7906
+ID SylvestersPostageStampProblem, image 1: 0.8573
+ID SylvestersPostageStampProblem, image 4: 0.8364
+ID SylvestersPostageStampProblem, image 2: 0.8498
+ID SylvestersPostageStampProblem, image 3: 0.8808
+ID AQuizForTheLongestRiversAndLargestLakes, image 2: 0.7543
+ID HuffmanTreeEncoding, image 2: 0.7282
+ID HuffmanTreeEncoding, image 4: 0.6844
+ID HuffmanTreeEncoding, image 1: 0.7633
+ID HuffmanTreeEncoding, image 3: 0.7787
+ID SumOfReciprocalsOfTriangularNumbers, image 4: 0.7447
+ID SumOfReciprocalsOfTriangularNumbers, image 2: 0.7460
+ID SumOfReciprocalsOfTriangularNumbers, image 1: 0.7477
+ID SumOfReciprocalsOfTriangularNumbers, image 3: 0.7400
+ID BifurcationInABiochemicalReactor, image 4: 0.9080
+ID BifurcationInABiochemicalReactor, image 2: 0.8855
+ID BifurcationInABiochemicalReactor, image 1: 0.8724
+ID BifurcationInABiochemicalReactor, image 3: 0.8716
+ID SolarEnergyIncidentOnEarthsSurface, image 4: 0.6179
+ID SolarEnergyIncidentOnEarthsSurface, image 1: 0.5938
+ID SolarEnergyIncidentOnEarthsSurface, image 3: 0.6298
+ID SolarEnergyIncidentOnEarthsSurface, image 2: 0.6351
+ID RationalTrianglesWithAreaLessThan102, image 3: 0.8976
+ID RationalTrianglesWithAreaLessThan102, image 4: 0.8402
+ID RationalTrianglesWithAreaLessThan102, image 2: 0.8946
+ID RationalTrianglesWithAreaLessThan102, image 1: 0.8607
+ID FirmCostsOptimizationProblemInPrimalAndDualForm, image 3: 0.7437
+ID FirmCostsOptimizationProblemInPrimalAndDualForm, image 1: 0.6967
+ID FirmCostsOptimizationProblemInPrimalAndDualForm, image 2: 0.6868
+ID FirmCostsOptimizationProblemInPrimalAndDualForm, image 4: 0.7007
+ID FlashDistillationOfAMixtureOfFourHydrocarbons, image 3: 0.7778
+ID FlashDistillationOfAMixtureOfFourHydrocarbons, image 1: 0.7498
+ID FlashDistillationOfAMixtureOfFourHydrocarbons, image 4: 0.7629
+ID FlashDistillationOfAMixtureOfFourHydrocarbons, image 2: 0.7613
+ID TheEarthAsSeenFromTheMoon, image 4: 0.8157
+ID TheEarthAsSeenFromTheMoon, image 2: 0.8174
+ID TheEarthAsSeenFromTheMoon, image 1: 0.7929
+ID TheEarthAsSeenFromTheMoon, image 3: 0.7904
+ID BestEffortGlobalWarmingTrajectories, image 2: 0.6723
+ID BestEffortGlobalWarmingTrajectories, image 4: 0.6556
+ID BestEffortGlobalWarmingTrajectories, image 1: 0.6556
+ID BestEffortGlobalWarmingTrajectories, image 3: 0.6992
+ID PendulumOnAMovingSupport, image 1: 0.8398
+ID DeformationPatternInAnEarthquakeSourceRegion, image 2: 0.5948
+ID DeformationPatternInAnEarthquakeSourceRegion, image 3: 0.6011
+ID DeformationPatternInAnEarthquakeSourceRegion, image 1: 0.5947
+ID DeformationPatternInAnEarthquakeSourceRegion, image 4: 0.5911
+ID SimulatedQuantumComputerAlgorithmForDatabaseSearching, image 1: 0.8015
+ID SimulatedQuantumComputerAlgorithmForDatabaseSearching, image 3: 0.8268
+ID SimulatedQuantumComputerAlgorithmForDatabaseSearching, image 4: 0.8344
+ID SimulatedQuantumComputerAlgorithmForDatabaseSearching, image 2: 0.8456
+ID McCabeThieleGraphicalMethod, image 1: 0.7255
+ID McCabeThieleGraphicalMethod, image 2: 0.7224
+ID McCabeThieleGraphicalMethod, image 3: 0.7153
+ID McCabeThieleGraphicalMethod, image 4: 0.7400
+ID EarthsMagnetosphereAndTheSolarWind, image 1: 0.6844
+ID EarthsMagnetosphereAndTheSolarWind, image 2: 0.9115
+ID EarthsMagnetosphereAndTheSolarWind, image 4: 0.8866
+ID EarthsMagnetosphereAndTheSolarWind, image 3: 0.8385
+ID TheGammaDistribution, image 4: 0.8004
+ID TheGammaDistribution, image 3: 0.7901
+ID TheGammaDistribution, image 1: 0.8307
+ID TheGammaDistribution, image 2: 0.7979
+ID DistillationLinesForAMixtureOfChloroformAcetoneAndMethanolAt, image 2: 0.9105
+ID DistillationLinesForAMixtureOfChloroformAcetoneAndMethanolAt, image 1: 0.9105
+ID EllipticParaboloid, image 3: 0.7839
+ID EllipticParaboloid, image 1: 0.7937
+ID EllipticParaboloid, image 2: 0.7854
+ID EllipticParaboloid, image 4: 0.7693
+ID ComparingTheIterativeAndRecursiveFloodFillAlgorithms, image 3: 0.8625
+ID ComparingTheIterativeAndRecursiveFloodFillAlgorithms, image 2: 0.8568
+ID ComparingTheIterativeAndRecursiveFloodFillAlgorithms, image 1: 0.8831
+ID ComparingTheIterativeAndRecursiveFloodFillAlgorithms, image 4: 0.9123
+ID HuffmanEncoding, image 4: 0.7144
+ID HuffmanEncoding, image 3: 0.6876
+ID HuffmanEncoding, image 1: 0.7188
+ID HuffmanEncoding, image 2: 0.7036
+ID StroboscopicPhotographOfABouncingBall, image 1: 0.6635
+ID StroboscopicPhotographOfABouncingBall, image 2: 0.6372
+ID StroboscopicPhotographOfABouncingBall, image 4: 0.6653
+ID StroboscopicPhotographOfABouncingBall, image 3: 0.5927
+ID AngleBisectorsOnTheCircumcircle, image 2: 0.6437
+ID AngleBisectorsOnTheCircumcircle, image 1: 0.6405
+ID AngleBisectorsOnTheCircumcircle, image 4: 0.6227
+ID AngleBisectorsOnTheCircumcircle, image 3: 0.6367
+ID TheCarbonCycle, image 4: 0.7810
+ID TheCarbonCycle, image 3: 0.8794
+ID TheCarbonCycle, image 1: 0.8188
+ID TheCarbonCycle, image 2: 0.8188
+ID 2DKinematicsOnAFigureEightCurve, image 1: 0.8894
+ID SimpleHarmonicMotionOfASpring, image 1: 0.8573
+ID SimpleHarmonicMotionOfASpring, image 2: 0.7200
+ID SimpleHarmonicMotionOfASpring, image 4: 0.8573
+ID SimpleHarmonicMotionOfASpring, image 3: 0.7477
+ID DistanceTransforms, image 4: 0.8873
+ID DistanceTransforms, image 2: 0.9088
+ID DistanceTransforms, image 3: 0.8749
+ID DistanceTransforms, image 1: 0.9095
+ID ArrheniusVersusEyringPolanyiModel, image 1: 0.9042
+ID ArrheniusVersusEyringPolanyiModel, image 4: 0.8878
+ID ArrheniusVersusEyringPolanyiModel, image 3: 0.8779
+ID ArrheniusVersusEyringPolanyiModel, image 2: 0.8904
+ID Regular2nGonToRectanglesDissection, image 3: 0.9486
+ID Regular2nGonToRectanglesDissection, image 1: 0.9619
+ID Regular2nGonToRectanglesDissection, image 2: 0.9605
+ID BreadthFirstSearchRobotMotionPlanning, image 2: 0.8372
+ID BreadthFirstSearchRobotMotionPlanning, image 1: 0.8223
+ID GreedyAlgorithmsForAMinimumSpanningTree, image 1: 0.6680
+ID DecimalMultiplication, image 4: 0.7534
+ID DecimalMultiplication, image 2: 0.7491
+ID DecimalMultiplication, image 1: 0.8071
+ID DecimalMultiplication, image 3: 0.8013
+ID InfraredAndRamanVibrationalSpectraOfMethane, image 4: 0.6872
+ID InfraredAndRamanVibrationalSpectraOfMethane, image 3: 0.8124
+ID InfraredAndRamanVibrationalSpectraOfMethane, image 2: 0.8124
+ID InfraredAndRamanVibrationalSpectraOfMethane, image 1: 0.8005
+ID FirstOrderSolutionToGlassIceStefanProblem, image 3: 0.9073
+ID FirstOrderSolutionToGlassIceStefanProblem, image 2: 0.9091
+ID FirstOrderSolutionToGlassIceStefanProblem, image 4: 0.8968
+ID FirstOrderSolutionToGlassIceStefanProblem, image 1: 0.9136
+ID SolarTimeCalculator, image 1: 0.9252
+ID SolarTimeCalculator, image 2: 0.9291
+ID SolarTimeCalculator, image 4: 0.9103
+ID SolarTimeCalculator, image 3: 0.9225
+ID RecursivelyDefinedPartialTilingsOfThePlane, image 2: 0.8259
+ID RecursivelyDefinedPartialTilingsOfThePlane, image 4: 0.7275
+ID RecursivelyDefinedPartialTilingsOfThePlane, image 1: 0.7311
+ID RecursivelyDefinedPartialTilingsOfThePlane, image 3: 0.7525
+ID FieldsOfMagnetArray, image 3: 0.7081
+ID FieldsOfMagnetArray, image 4: 0.7375
+ID FieldsOfMagnetArray, image 2: 0.7104
+ID FieldsOfMagnetArray, image 1: 0.7516
+ID TernaryPhaseDiagramWithPhaseEnvelope, image 3: 0.8368
+ID TernaryPhaseDiagramWithPhaseEnvelope, image 2: 0.8283
+ID TernaryPhaseDiagramWithPhaseEnvelope, image 1: 0.8690
+ID TernaryPhaseDiagramWithPhaseEnvelope, image 4: 0.8268
+ID ComparingAlgorithmsForTheTravelingSalesmanProblem, image 1: 0.8786
+ID ComparingAlgorithmsForTheTravelingSalesmanProblem, image 3: 0.8520
+ID ComparingAlgorithmsForTheTravelingSalesmanProblem, image 2: 0.8009
+ID ComparingAlgorithmsForTheTravelingSalesmanProblem, image 4: 0.7841
+ID SelfishBinaryHalfrangeAutomatonCycles2D, image 2: 0.7734
+ID SelfishBinaryHalfrangeAutomatonCycles2D, image 3: 0.7979
+ID SelfishBinaryHalfrangeAutomatonCycles2D, image 4: 0.7614
+ID SelfishBinaryHalfrangeAutomatonCycles2D, image 1: 0.7751
+ID MulticomponentDistillationColumn, image 1: 0.8843
+ID MulticomponentDistillationColumn, image 2: 0.9079
+ID MulticomponentDistillationColumn, image 3: 0.9073
+ID MulticomponentDistillationColumn, image 4: 0.9130
+ID AdvancedCelestialSphere, image 1: 0.5946
+ID AdvancedCelestialSphere, image 2: 0.6014
+ID AdvancedCelestialSphere, image 3: 0.5990
+ID HarmonicDistortionOfNonlinearTransferFunction, image 3: 0.8827
+ID HarmonicDistortionOfNonlinearTransferFunction, image 1: 0.8917
+ID HarmonicDistortionOfNonlinearTransferFunction, image 4: 0.8944
+ID HarmonicDistortionOfNonlinearTransferFunction, image 2: 0.8917
+ID RetroreflectiveSphere, image 4: 0.8051
+ID RetroreflectiveSphere, image 2: 0.8510
+ID RetroreflectiveSphere, image 1: 0.8146
+ID RetroreflectiveSphere, image 3: 0.8207
+ID TheHungarianMaximumMatchingAlgorithm, image 1: 0.5814
+ID TheHungarianMaximumMatchingAlgorithm, image 4: 0.5985
+ID TheHungarianMaximumMatchingAlgorithm, image 3: 0.5884
+ID TheHungarianMaximumMatchingAlgorithm, image 2: 0.5757
+ID TimeComplexityOfCommonSortingAlgorithms, image 3: 0.8261
+ID TimeComplexityOfCommonSortingAlgorithms, image 2: 0.8751
+ID TimeComplexityOfCommonSortingAlgorithms, image 4: 0.8691
+ID TimeComplexityOfCommonSortingAlgorithms, image 1: 0.8922
+ID PinchCompositionVersusRefluxRatioForABenzeneEthylenediamineM, image 4: 0.8483
+ID PinchCompositionVersusRefluxRatioForABenzeneEthylenediamineM, image 2: 0.7942
+ID PinchCompositionVersusRefluxRatioForABenzeneEthylenediamineM, image 1: 0.8209
+ID PinchCompositionVersusRefluxRatioForABenzeneEthylenediamineM, image 3: 0.8468
+ID DrawingChemicalStructures, image 1: 0.9056
+ID DrawingChemicalStructures, image 4: 0.9064
+ID DrawingChemicalStructures, image 3: 0.7865
+ID DrawingChemicalStructures, image 2: 0.8717
+ID MovingWaveAnalysis, image 3: 0.8606
+ID MovingWaveAnalysis, image 1: 0.8769
+ID KeplerOrbits, image 3: 0.7178
+ID KeplerOrbits, image 2: 0.7153
+ID KeplerOrbits, image 1: 0.7086
+ID MethylationIndexAndAnalysisOfSRBMediatedMercuryMethylation, image 1: 0.7858
+ID MethylationIndexAndAnalysisOfSRBMediatedMercuryMethylation, image 2: 0.7744
+ID MethylationIndexAndAnalysisOfSRBMediatedMercuryMethylation, image 4: 0.7728
+ID MethylationIndexAndAnalysisOfSRBMediatedMercuryMethylation, image 3: 0.7773
+ID QuantumComputerSearchAlgorithms, image 1: 0.7629
+ID QuantumComputerSearchAlgorithms, image 3: 0.7706
+ID QuantumComputerSearchAlgorithms, image 4: 0.7531
+ID QuantumComputerSearchAlgorithms, image 2: 0.7663
+ID SingleComponentFugacity, image 2: 0.7852
+ID SingleComponentFugacity, image 3: 0.7382
+ID SingleComponentFugacity, image 1: 0.7748
+ID SingleComponentFugacity, image 4: 0.8173
+ID OptimalJointMeasurementsOfQubitObservables, image 1: 0.7522
+ID HeatConductionInARod, image 4: 0.9100
+ID HeatConductionInARod, image 2: 0.8537
+ID HeatConductionInARod, image 3: 0.9176
+ID HeatConductionInARod, image 1: 0.9021
+ID VisualANOVA, image 2: 0.8922
+ID VisualANOVA, image 3: 0.8624
+ID VisualANOVA, image 4: 0.8960
+ID VisualANOVA, image 1: 0.8588
+ID PredictingMaximumSeaLevels, image 1: 0.8242
+ID PredictingMaximumSeaLevels, image 3: 0.8382
+ID PredictingMaximumSeaLevels, image 4: 0.8548
+ID PredictingMaximumSeaLevels, image 2: 0.8282
+ID TimeShiftingAndTimeScalingInSignalProcessing, image 2: 0.6305
+ID TimeShiftingAndTimeScalingInSignalProcessing, image 3: 0.6236
+ID TimeShiftingAndTimeScalingInSignalProcessing, image 4: 0.6732
+ID TimeShiftingAndTimeScalingInSignalProcessing, image 1: 0.6779
+ID InterwovenSphericalTriangles, image 3: 0.8495
+ID InterwovenSphericalTriangles, image 2: 0.8009
+ID InterwovenSphericalTriangles, image 4: 0.9140
+ID InterwovenSphericalTriangles, image 1: 0.9021
+ID TimeEncodingOfAnalogSignals, image 3: 0.8038
+ID TimeEncodingOfAnalogSignals, image 2: 0.8635
+ID TimeEncodingOfAnalogSignals, image 1: 0.8784
+ID TimeEncodingOfAnalogSignals, image 4: 0.8528
+ID SphericalSeismicWaves, image 1: 0.7705
+ID SphericalSeismicWaves, image 4: 0.7864
+ID SphericalSeismicWaves, image 2: 0.8412
+ID SphericalSeismicWaves, image 3: 0.7692
+ID LillsGraphicSolutionOfAQuadraticEquation, image 4: 0.8807
+ID LillsGraphicSolutionOfAQuadraticEquation, image 3: 0.8200
+ID LillsGraphicSolutionOfAQuadraticEquation, image 2: 0.9002
+ID LillsGraphicSolutionOfAQuadraticEquation, image 1: 0.9098
+ID CascadeOfTwoContinuousStirredTankReactorsWithRecycle, image 3: 0.8410
+ID CascadeOfTwoContinuousStirredTankReactorsWithRecycle, image 1: 0.8087
+ID CascadeOfTwoContinuousStirredTankReactorsWithRecycle, image 4: 0.6834
+ID CascadeOfTwoContinuousStirredTankReactorsWithRecycle, image 2: 0.6085
+ID LogarithmicSpiralsAndMoebiusTransformations, image 2: 0.6680
+ID LogarithmicSpiralsAndMoebiusTransformations, image 1: 0.6283
+ID LogarithmicSpiralsAndMoebiusTransformations, image 4: 0.6444
+ID LogarithmicSpiralsAndMoebiusTransformations, image 3: 0.6271
+ID DijkstrasAlgorithm, image 1: 0.8375
+ID DijkstrasAlgorithm, image 3: 0.8293
+ID DijkstrasAlgorithm, image 4: 0.8321
+ID DijkstrasAlgorithm, image 2: 0.8375
+ID PlacingObjectsAtPredeterminedSetsOfPoints, image 3: 0.7055
+ID PlacingObjectsAtPredeterminedSetsOfPoints, image 2: 0.6552
+ID PlacingObjectsAtPredeterminedSetsOfPoints, image 1: 0.6990
+ID PlacingObjectsAtPredeterminedSetsOfPoints, image 4: 0.7208
+ID Analemmas, image 3: 0.7734
+ID Analemmas, image 1: 0.8220
+ID Analemmas, image 2: 0.8331
+ID Analemmas, image 4: 0.8452
+ID AlgorithmsForFindingHamiltonCircuitsInCompleteGraphs, image 3: 0.7237
+ID AlgorithmsForFindingHamiltonCircuitsInCompleteGraphs, image 4: 0.8459
+ID AlgorithmsForFindingHamiltonCircuitsInCompleteGraphs, image 1: 0.8469
+ID AlgorithmsForFindingHamiltonCircuitsInCompleteGraphs, image 2: 0.7279
+ID UllmansTheoremInTwoDimensions, image 1: 0.5864
+ID UllmansTheoremInTwoDimensions, image 2: 0.6291
+ID MultiTimeBifurcationsOfWavefrontsIn2DAnd3D, image 2: 0.8007
+ID MultiTimeBifurcationsOfWavefrontsIn2DAnd3D, image 4: 0.6722
+ID MultiTimeBifurcationsOfWavefrontsIn2DAnd3D, image 1: 0.8001
+ID MultiTimeBifurcationsOfWavefrontsIn2DAnd3D, image 3: 0.6473
+ID ParallelNonisothermalReactionsInBatchAndSemibatchReactors, image 2: 0.8112
+ID ParallelNonisothermalReactionsInBatchAndSemibatchReactors, image 3: 0.7917
+ID ParallelNonisothermalReactionsInBatchAndSemibatchReactors, image 1: 0.8105
+ID RapidlyExploringRandomTreeRRTAndRRT, image 4: 0.8144
+ID RapidlyExploringRandomTreeRRTAndRRT, image 1: 0.8094
+ID RapidlyExploringRandomTreeRRTAndRRT, image 3: 0.8347
+ID RapidlyExploringRandomTreeRRTAndRRT, image 2: 0.7943
+ID RelativeMotionForTwoIonsInAPenningTrap, image 4: 0.5318
+ID RelativeMotionForTwoIonsInAPenningTrap, image 1: 0.5307
+ID RelativeMotionForTwoIonsInAPenningTrap, image 3: 0.5499
+ID RelativeMotionForTwoIonsInAPenningTrap, image 2: 0.5223
+ID ChemicalBondingAndElectronDensityInH2, image 3: 0.8348
+ID ChemicalBondingAndElectronDensityInH2, image 2: 0.8075
+ID ChemicalBondingAndElectronDensityInH2, image 4: 0.8028
+ID ChemicalBondingAndElectronDensityInH2, image 1: 0.8131
+ID ViewOfTheMoonFromEarth, image 1: 0.6093
+ID RovibronicSpectrumOfAPerpendicularBandOfASymmetricRotor, image 2: 0.7672
+ID RovibronicSpectrumOfAPerpendicularBandOfASymmetricRotor, image 4: 0.7779
+ID RovibronicSpectrumOfAPerpendicularBandOfASymmetricRotor, image 1: 0.7512
+ID RovibronicSpectrumOfAPerpendicularBandOfASymmetricRotor, image 3: 0.7298
+ID RadiationPatternForDoubleCoupleEarthquakeSources, image 3: 0.7916
+ID RadiationPatternForDoubleCoupleEarthquakeSources, image 4: 0.7734
+ID RadiationPatternForDoubleCoupleEarthquakeSources, image 2: 0.7717
+ID RadiationPatternForDoubleCoupleEarthquakeSources, image 1: 0.7611
+ID EulerTransformation, image 4: 0.9167
+ID EulerTransformation, image 2: 0.9284
+ID EulerTransformation, image 3: 0.9510
+ID EulerTransformation, image 1: 0.9512
+ID TraditionalVisualCryptographyScheme, image 1: 0.6512
+ID TraditionalVisualCryptographyScheme, image 4: 0.6477
+ID TraditionalVisualCryptographyScheme, image 3: 0.6093
+ID TraditionalVisualCryptographyScheme, image 2: 0.6393
+ID InversiveGeometryVIISpiderEyes, image 2: 0.9205
+ID InversiveGeometryVIISpiderEyes, image 1: 0.9072
+ID ApproximatePHCalculationOfAcids, image 4: 0.5914
+ID ApproximatePHCalculationOfAcids, image 2: 0.6423
+ID ApproximatePHCalculationOfAcids, image 1: 0.6767
+ID ApproximatePHCalculationOfAcids, image 3: 0.6713
+ID DijkstrasAndASearchAlgorithmsForPathfindingWithObstacles, image 1: 0.7520
+ID ElectricFieldOfAPointCharge, image 1: 0.9216
+ID ElectricFieldOfAPointCharge, image 2: 0.9171
+ID ElectricFieldOfAPointCharge, image 4: 0.9242
+ID ElectricFieldOfAPointCharge, image 3: 0.9214
+ID FourierTransformOfRadiallySymmetricPotentialFunctions, image 4: 0.7716
+ID FourierTransformOfRadiallySymmetricPotentialFunctions, image 3: 0.7739
+ID FourierTransformOfRadiallySymmetricPotentialFunctions, image 2: 0.7738
+ID FourierTransformOfRadiallySymmetricPotentialFunctions, image 1: 0.7821
+ID ThreePolyhedraWithRectangularNets, image 3: 0.8338
+ID ThreePolyhedraWithRectangularNets, image 4: 0.8442
+ID ThreePolyhedraWithRectangularNets, image 2: 0.8480
+ID ThreePolyhedraWithRectangularNets, image 1: 0.8510
+ID CompositionOfVaporAndLiquidPhasesForATernaryIdealMixture, image 2: 0.8520
+ID CompositionOfVaporAndLiquidPhasesForATernaryIdealMixture, image 1: 0.8566
+ID CompositionOfVaporAndLiquidPhasesForATernaryIdealMixture, image 3: 0.8525
+ID CompositionOfVaporAndLiquidPhasesForATernaryIdealMixture, image 4: 0.8536
+ID BandStructureOfAQuantumWireWithRashbaAndZeemanInteractions, image 3: 0.7623
+ID BandStructureOfAQuantumWireWithRashbaAndZeemanInteractions, image 1: 0.7309
+ID BandStructureOfAQuantumWireWithRashbaAndZeemanInteractions, image 2: 0.7597
+ID BandStructureOfAQuantumWireWithRashbaAndZeemanInteractions, image 4: 0.7457
+ID ConvolutionMethodInHydrologicComputations, image 1: 0.8504
+ID ConvolutionMethodInHydrologicComputations, image 2: 0.8763
+ID ConvolutionMethodInHydrologicComputations, image 3: 0.8980
+ID ConvolutionMethodInHydrologicComputations, image 4: 0.9202
+ID SetOfNashEquilibriaIn2x2MixedExtendedGames, image 1: 0.8867
+ID SetOfNashEquilibriaIn2x2MixedExtendedGames, image 3: 0.8935
+ID SetOfNashEquilibriaIn2x2MixedExtendedGames, image 4: 0.8854
+ID SetOfNashEquilibriaIn2x2MixedExtendedGames, image 2: 0.8881
+ID QuadraticsTangentToACubic, image 1: 0.7078
+ID QuadraticsTangentToACubic, image 4: 0.7235
+ID QuadraticsTangentToACubic, image 2: 0.7447
+ID QuadraticsTangentToACubic, image 3: 0.7101
+ID CharlessLaw, image 2: 0.8738
+ID CharlessLaw, image 3: 0.8732
+ID CharlessLaw, image 4: 0.8651
+ID CharlessLaw, image 1: 0.8688
+ID CirclesTriangles, image 1: 0.7954
+ID CirclesTriangles, image 4: 0.7385
+ID CirclesTriangles, image 2: 0.7808
+ID CirclesTriangles, image 3: 0.8003
+ID DiffusionReactionInACatalyticParticle, image 1: 0.8223
+ID DiffusionReactionInACatalyticParticle, image 4: 0.8233
+ID DiffusionReactionInACatalyticParticle, image 2: 0.8444
+ID RichardsGrowthCurve, image 2: 0.7509
+ID RichardsGrowthCurve, image 1: 0.7352
+ID RichardsGrowthCurve, image 3: 0.7321
+ID RichardsGrowthCurve, image 4: 0.7234
+ID PineCone, image 2: 0.5252
+ID PineCone, image 4: 0.5260
+ID PineCone, image 1: 0.5192
+ID PineCone, image 3: 0.5151
+ID ThomsonProblemSolutions, image 2: 0.9481
+ID ThomsonProblemSolutions, image 1: 0.9543
+ID ThomsonProblemSolutions, image 4: 0.9399
+ID ThomsonProblemSolutions, image 3: 0.8654
+ID TheEquationOfTimeForASundial, image 2: 0.6431
+ID TheEquationOfTimeForASundial, image 3: 0.6258
+ID TheEquationOfTimeForASundial, image 1: 0.6350
+ID TheEquationOfTimeForASundial, image 4: 0.6423
+ID ThePlemeljConstructionOfATriangle15, image 1: 0.6459
+ID MaxwellBlochEquationsForATwoLevelSystem, image 4: 0.9632
+ID MaxwellBlochEquationsForATwoLevelSystem, image 1: 0.9354
+ID MultipleSteadyStatesInAContinuouslyStirredTankReactor, image 1: 0.7829
+ID MultipleSteadyStatesInAContinuouslyStirredTankReactor, image 4: 0.7623
+ID MultipleSteadyStatesInAContinuouslyStirredTankReactor, image 2: 0.7625
+ID MultipleSteadyStatesInAContinuouslyStirredTankReactor, image 3: 0.8256
+ID WankelRotaryEngineEpitrochoidalEnvelopes, image 1: 0.6396
+ID ModelForTheFormulationOfMultilayeredEmulsions, image 3: 0.8608
+ID ModelForTheFormulationOfMultilayeredEmulsions, image 1: 0.8573
+ID ModelForTheFormulationOfMultilayeredEmulsions, image 2: 0.8707
+ID ModelForTheFormulationOfMultilayeredEmulsions, image 4: 0.8741
+ID ElasticCollisionsInGalileanRelativity, image 4: 0.8432
+ID ElasticCollisionsInGalileanRelativity, image 3: 0.8677
+ID ElasticCollisionsInGalileanRelativity, image 1: 0.8549
+ID ElasticCollisionsInGalileanRelativity, image 2: 0.8711
+ID CoordinationInIonicCompounds, image 3: 0.0000 (prediction not found)
+ID AlgorithmForDataEncryptionStandard, image 3: 0.0000 (prediction not found)
+ID AlgorithmForDataEncryptionStandard, image 1: 0.0000 (prediction not found)
+ID AlgorithmForDataEncryptionStandard, image 2: 0.0000 (prediction not found)
+ID AlgorithmForDataEncryptionStandard, image 4: 0.0000 (prediction not found)
+ID CircularHoleDrilledInACylinder, image 4: 0.0000 (prediction not found)
+ID DrawdownPressureInANaturallyFracturedReservoir, image 2: 0.0000 (prediction not found)
+ID DrawdownPressureInANaturallyFracturedReservoir, image 3: 0.0000 (prediction not found)
+ID VisibilityRegionOfAPolygon, image 3: 0.0000 (prediction not found)
+ID VisibilityRegionOfAPolygon, image 2: 0.0000 (prediction not found)
+ID VisibilityRegionOfAPolygon, image 4: 0.0000 (prediction not found)
+ID LocalSolutionOfANonlinearODEUsingAPowerSeriesExpansion, image 4: 0.0000 (prediction not found)
+ID PlaneSeismicWaves, image 3: 0.0000 (prediction not found)
+ID DwarfPlanets, image 2: 0.0000 (prediction not found)
+ID SimpleSimulationOfTides, image 4: 0.0000 (prediction not found)
+ID JarvisMarchToFindTheConvexHullOfASetOfPointsIn2D, image 4: 0.0000 (prediction not found)
+ID VectorPlotOfHelmholtzCoilInEarthsMagneticField, image 4: 0.0000 (prediction not found)
+ID ApplyingGraphicsFiltersUsingConvolution, image 4: 0.0000 (prediction not found)
+ID ApplyingGraphicsFiltersUsingConvolution, image 3: 0.0000 (prediction not found)
+ID AQuizForTheLongestRiversAndLargestLakes, image 1: 0.0000 (prediction not found)
+ID PendulumOnAMovingSupport, image 4: 0.0000 (prediction not found)
+ID PendulumOnAMovingSupport, image 3: 0.0000 (prediction not found)
+ID PendulumOnAMovingSupport, image 2: 0.0000 (prediction not found)
+ID DistillationLinesForAMixtureOfChloroformAcetoneAndMethanolAt, image 4: 0.0000 (prediction not found)
+ID DistillationLinesForAMixtureOfChloroformAcetoneAndMethanolAt, image 3: 0.0000 (prediction not found)
+ID AdditionOfAngularMomentaInQuantumMechanics, image 2: 0.0000 (prediction not found)
+ID AdditionOfAngularMomentaInQuantumMechanics, image 3: 0.0000 (prediction not found)
+ID AdditionOfAngularMomentaInQuantumMechanics, image 1: 0.0000 (prediction not found)
+ID AdditionOfAngularMomentaInQuantumMechanics, image 4: 0.0000 (prediction not found)
+ID 2DKinematicsOnAFigureEightCurve, image 3: 0.0000 (prediction not found)
+ID 2DKinematicsOnAFigureEightCurve, image 2: 0.0000 (prediction not found)
+ID 2DKinematicsOnAFigureEightCurve, image 4: 0.0000 (prediction not found)
+ID BreadthFirstSearchRobotMotionPlanning, image 4: 0.0000 (prediction not found)
+ID BreadthFirstSearchRobotMotionPlanning, image 3: 0.0000 (prediction not found)
+ID GreedyAlgorithmsForAMinimumSpanningTree, image 3: 0.0000 (prediction not found)
+ID GreedyAlgorithmsForAMinimumSpanningTree, image 4: 0.0000 (prediction not found)
+ID GreedyAlgorithmsForAMinimumSpanningTree, image 2: 0.0000 (prediction not found)
+ID AdvancedCelestialSphere, image 4: 0.0000 (prediction not found)
+ID MovingWaveAnalysis, image 4: 0.0000 (prediction not found)
+ID MovingWaveAnalysis, image 2: 0.0000 (prediction not found)
+ID KeplerOrbits, image 4: 0.0000 (prediction not found)
+ID OptimalJointMeasurementsOfQubitObservables, image 3: 0.0000 (prediction not found)
+ID OptimalJointMeasurementsOfQubitObservables, image 4: 0.0000 (prediction not found)
+ID OptimalJointMeasurementsOfQubitObservables, image 2: 0.0000 (prediction not found)
+ID TheGeometryOfTheSteinerTreeProblemForUpToFivePoints, image 3: 0.0000 (prediction not found)
+ID TheGeometryOfTheSteinerTreeProblemForUpToFivePoints, image 1: 0.0000 (prediction not found)
+ID TheGeometryOfTheSteinerTreeProblemForUpToFivePoints, image 4: 0.0000 (prediction not found)
+ID TheGeometryOfTheSteinerTreeProblemForUpToFivePoints, image 2: 0.0000 (prediction not found)
+ID UllmansTheoremInTwoDimensions, image 4: 0.0000 (prediction not found)
+ID UllmansTheoremInTwoDimensions, image 3: 0.0000 (prediction not found)
+ID ParallelNonisothermalReactionsInBatchAndSemibatchReactors, image 4: 0.0000 (prediction not found)
+ID ViewOfTheMoonFromEarth, image 3: 0.0000 (prediction not found)
+ID ViewOfTheMoonFromEarth, image 2: 0.0000 (prediction not found)
+ID ViewOfTheMoonFromEarth, image 4: 0.0000 (prediction not found)
+ID InversiveGeometryVIISpiderEyes, image 3: 0.0000 (prediction not found)
+ID InversiveGeometryVIISpiderEyes, image 4: 0.0000 (prediction not found)
+ID DijkstrasAndASearchAlgorithmsForPathfindingWithObstacles, image 2: 0.0000 (prediction not found)
+ID DijkstrasAndASearchAlgorithmsForPathfindingWithObstacles, image 4: 0.0000 (prediction not found)
+ID DijkstrasAndASearchAlgorithmsForPathfindingWithObstacles, image 3: 0.0000 (prediction not found)
+ID CalculationsForReducedCarbonEmissions, image 3: 0.0000 (prediction not found)
+ID CalculationsForReducedCarbonEmissions, image 1: 0.0000 (prediction not found)
+ID CalculationsForReducedCarbonEmissions, image 4: 0.0000 (prediction not found)
+ID CalculationsForReducedCarbonEmissions, image 2: 0.0000 (prediction not found)
+ID DiffusionReactionInACatalyticParticle, image 3: 0.0000 (prediction not found)
+ID CrystallographicPlanesForCubicLattices, image 4: 0.0000 (prediction not found)
+ID CrystallographicPlanesForCubicLattices, image 1: 0.0000 (prediction not found)
+ID CrystallographicPlanesForCubicLattices, image 3: 0.0000 (prediction not found)
+ID CrystallographicPlanesForCubicLattices, image 2: 0.0000 (prediction not found)
+ID ThePlemeljConstructionOfATriangle15, image 3: 0.0000 (prediction not found)
+ID ThePlemeljConstructionOfATriangle15, image 2: 0.0000 (prediction not found)
+ID ThePlemeljConstructionOfATriangle15, image 4: 0.0000 (prediction not found)
+ID MaxwellBlochEquationsForATwoLevelSystem, image 2: 0.0000 (prediction not found)
+ID MaxwellBlochEquationsForATwoLevelSystem, image 3: 0.0000 (prediction not found)
+ID WankelRotaryEngineEpitrochoidalEnvelopes, image 3: 0.0000 (prediction not found)
+ID WankelRotaryEngineEpitrochoidalEnvelopes, image 4: 0.0000 (prediction not found)
+ID WankelRotaryEngineEpitrochoidalEnvelopes, image 2: 0.0000 (prediction not found)
+
+Per-ID average scores:
+ID AdditiveCipher: 0.7887
+ID CoordinationInIonicCompounds: 0.6134
+ID BlockOnAFrictionlessInclinedPlane: 0.6990
+ID AlgorithmForDataEncryptionStandard: 0.0000
+ID ComparingSortingAlgorithmsOnRainbowColoredBarCharts: 0.9273
+ID WhenTwoRunnersMeet: 0.8779
+ID ThePhosphorusCycle: 0.8880
+ID TheBlossomAlgorithmForMaximumMatching: 0.8488
+ID CircularHoleDrilledInACylinder: 0.5328
+ID HueSaturationBrightnessHSBExplorer: 0.7520
+ID ThermokineticOscillator: 0.9076
+ID RayleighWaves: 0.9146
+ID ArrheniusVersusExponentialModelForChemicalReactions: 0.9155
+ID EffectOfKeywordLengthOnTheLetterFrequencyInEncryptedMessages: 0.7556
+ID DrawdownPressureInANaturallyFracturedReservoir: 0.3832
+ID AForestGrowthCurve: 0.8793
+ID VisibilityRegionOfAPolygon: 0.1797
+ID LocalSolutionOfANonlinearODEUsingAPowerSeriesExpansion: 0.7008
+ID MappingLetterFrequencyToAKeyboard: 0.7187
+ID PlaneSeismicWaves: 0.6003
+ID SurfaceDisplacementsDueToUndergroundFaults: 0.7947
+ID VibrationsOfAHangingString: 0.8897
+ID OpacityExplorer2D: 0.8838
+ID GasPhaseFugacityCoefficientsForPropylene: 0.8377
+ID RegioselectivityAndStereospecificityInDielsAlderReactions: 0.6450
+ID AVisualProofOfVivianisTheorem: 0.9198
+ID DwarfPlanets: 0.5982
+ID KineticsOfCFCCatalyzedOzoneDestruction: 0.8405
+ID EratosthenessMeasureOfTheEarthsCircumference: 0.7793
+ID SimpleSimulationOfTides: 0.6787
+ID EnigmaticCometHolmes: 0.8560
+ID TensionOfARopeWithAHangingMass: 0.9122
+ID SpringMassDamperSMDSystemWithProportionalDerivativePDControl: 0.6406
+ID VibrationOfMassesOnAString: 0.8538
+ID JarvisMarchToFindTheConvexHullOfASetOfPointsIn2D: 0.6594
+ID DiauxicBehaviorOfYeastInAFedBatchReactor: 0.7743
+ID SeasonalVariationsOfDayAndNight: 0.8008
+ID UnsteadyStateDiffusionInASlab: 0.7058
+ID CommonMethodsOfEstimatingTheAreaUnderACurve: 0.7899
+ID VectorPlotOfHelmholtzCoilInEarthsMagneticField: 0.6204
+ID SimpleCaesarCipher: 0.9003
+ID ApplyingGraphicsFiltersUsingConvolution: 0.3873
+ID AnalyzingTheCrystallographyOfTheSH2DomainAndItsResidueContac: 0.8196
+ID SylvestersPostageStampProblem: 0.8561
+ID AQuizForTheLongestRiversAndLargestLakes: 0.3771
+ID HuffmanTreeEncoding: 0.7387
+ID SumOfReciprocalsOfTriangularNumbers: 0.7446
+ID BifurcationInABiochemicalReactor: 0.8844
+ID SolarEnergyIncidentOnEarthsSurface: 0.6192
+ID RationalTrianglesWithAreaLessThan102: 0.8733
+ID FirmCostsOptimizationProblemInPrimalAndDualForm: 0.7070
+ID FlashDistillationOfAMixtureOfFourHydrocarbons: 0.7630
+ID TheEarthAsSeenFromTheMoon: 0.8041
+ID BestEffortGlobalWarmingTrajectories: 0.6707
+ID PendulumOnAMovingSupport: 0.2099
+ID DeformationPatternInAnEarthquakeSourceRegion: 0.5954
+ID SimulatedQuantumComputerAlgorithmForDatabaseSearching: 0.8271
+ID McCabeThieleGraphicalMethod: 0.7258
+ID EarthsMagnetosphereAndTheSolarWind: 0.8302
+ID TheGammaDistribution: 0.8048
+ID DistillationLinesForAMixtureOfChloroformAcetoneAndMethanolAt: 0.4553
+ID EllipticParaboloid: 0.7830
+ID AdditionOfAngularMomentaInQuantumMechanics: 0.0000
+ID ComparingTheIterativeAndRecursiveFloodFillAlgorithms: 0.8787
+ID HuffmanEncoding: 0.7061
+ID StroboscopicPhotographOfABouncingBall: 0.6397
+ID AngleBisectorsOnTheCircumcircle: 0.6359
+ID TheCarbonCycle: 0.8245
+ID 2DKinematicsOnAFigureEightCurve: 0.2224
+ID SimpleHarmonicMotionOfASpring: 0.7956
+ID DistanceTransforms: 0.8951
+ID ArrheniusVersusEyringPolanyiModel: 0.8901
+ID Regular2nGonToRectanglesDissection: 0.9570
+ID BreadthFirstSearchRobotMotionPlanning: 0.4149
+ID GreedyAlgorithmsForAMinimumSpanningTree: 0.1670
+ID DecimalMultiplication: 0.7777
+ID InfraredAndRamanVibrationalSpectraOfMethane: 0.7781
+ID FirstOrderSolutionToGlassIceStefanProblem: 0.9067
+ID SolarTimeCalculator: 0.9218
+ID RecursivelyDefinedPartialTilingsOfThePlane: 0.7592
+ID FieldsOfMagnetArray: 0.7269
+ID TernaryPhaseDiagramWithPhaseEnvelope: 0.8402
+ID ComparingAlgorithmsForTheTravelingSalesmanProblem: 0.8289
+ID SelfishBinaryHalfrangeAutomatonCycles2D: 0.7769
+ID MulticomponentDistillationColumn: 0.9031
+ID AdvancedCelestialSphere: 0.4488
+ID HarmonicDistortionOfNonlinearTransferFunction: 0.8901
+ID RetroreflectiveSphere: 0.8229
+ID TheHungarianMaximumMatchingAlgorithm: 0.5860
+ID TimeComplexityOfCommonSortingAlgorithms: 0.8656
+ID PinchCompositionVersusRefluxRatioForABenzeneEthylenediamineM: 0.8276
+ID DrawingChemicalStructures: 0.8675
+ID MovingWaveAnalysis: 0.4344
+ID KeplerOrbits: 0.5354
+ID MethylationIndexAndAnalysisOfSRBMediatedMercuryMethylation: 0.7776
+ID QuantumComputerSearchAlgorithms: 0.7632
+ID SingleComponentFugacity: 0.7789
+ID OptimalJointMeasurementsOfQubitObservables: 0.1880
+ID HeatConductionInARod: 0.8959
+ID TheGeometryOfTheSteinerTreeProblemForUpToFivePoints: 0.0000
+ID VisualANOVA: 0.8774
+ID PredictingMaximumSeaLevels: 0.8363
+ID TimeShiftingAndTimeScalingInSignalProcessing: 0.6513
+ID InterwovenSphericalTriangles: 0.8666
+ID TimeEncodingOfAnalogSignals: 0.8496
+ID SphericalSeismicWaves: 0.7918
+ID LillsGraphicSolutionOfAQuadraticEquation: 0.8777
+ID CascadeOfTwoContinuousStirredTankReactorsWithRecycle: 0.7354
+ID LogarithmicSpiralsAndMoebiusTransformations: 0.6419
+ID DijkstrasAlgorithm: 0.8341
+ID PlacingObjectsAtPredeterminedSetsOfPoints: 0.6951
+ID Analemmas: 0.8184
+ID AlgorithmsForFindingHamiltonCircuitsInCompleteGraphs: 0.7861
+ID UllmansTheoremInTwoDimensions: 0.3039
+ID MultiTimeBifurcationsOfWavefrontsIn2DAnd3D: 0.7301
+ID ParallelNonisothermalReactionsInBatchAndSemibatchReactors: 0.6033
+ID RapidlyExploringRandomTreeRRTAndRRT: 0.8132
+ID RelativeMotionForTwoIonsInAPenningTrap: 0.5337
+ID ChemicalBondingAndElectronDensityInH2: 0.8145
+ID ViewOfTheMoonFromEarth: 0.1523
+ID RovibronicSpectrumOfAPerpendicularBandOfASymmetricRotor: 0.7565
+ID RadiationPatternForDoubleCoupleEarthquakeSources: 0.7745
+ID EulerTransformation: 0.9368
+ID TraditionalVisualCryptographyScheme: 0.6368
+ID InversiveGeometryVIISpiderEyes: 0.4569
+ID ApproximatePHCalculationOfAcids: 0.6454
+ID DijkstrasAndASearchAlgorithmsForPathfindingWithObstacles: 0.1880
+ID ElectricFieldOfAPointCharge: 0.9211
+ID FourierTransformOfRadiallySymmetricPotentialFunctions: 0.7753
+ID CalculationsForReducedCarbonEmissions: 0.0000
+ID ThreePolyhedraWithRectangularNets: 0.8442
+ID CompositionOfVaporAndLiquidPhasesForATernaryIdealMixture: 0.8537
+ID BandStructureOfAQuantumWireWithRashbaAndZeemanInteractions: 0.7497
+ID ConvolutionMethodInHydrologicComputations: 0.8862
+ID SetOfNashEquilibriaIn2x2MixedExtendedGames: 0.8884
+ID QuadraticsTangentToACubic: 0.7215
+ID CharlessLaw: 0.8702
+ID CirclesTriangles: 0.7787
+ID DiffusionReactionInACatalyticParticle: 0.6225
+ID RichardsGrowthCurve: 0.7354
+ID PineCone: 0.5214
+ID CrystallographicPlanesForCubicLattices: 0.0000
+ID ThomsonProblemSolutions: 0.9269
+ID TheEquationOfTimeForASundial: 0.6366
+ID ThePlemeljConstructionOfATriangle15: 0.1615
+ID MaxwellBlochEquationsForATwoLevelSystem: 0.4747
+ID MultipleSteadyStatesInAContinuouslyStirredTankReactor: 0.7833
+ID WankelRotaryEngineEpitrochoidalEnvelopes: 0.1599
+ID ModelForTheFormulationOfMultilayeredEmulsions: 0.8657
+ID ElasticCollisionsInGalileanRelativity: 0.8592
+
+Total images processed: 597
+Total score: 415.5408
+Overall average score: 0.6960
+
+Mean of per-ID averages: 0.6954
