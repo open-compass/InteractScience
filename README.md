@@ -233,3 +233,13 @@ We have evaluated 30 state-of-the-art large language models on the InteractScien
 ![](/figs/example1.svg)
 
 ![](/figs/example2.svg)
+
+## Citation
+```
+@article{InteractScience,
+  author       = {Qiaosheng Chen and Yang Liu and Lei Li and Kai Chen and Qipeng Guo and Gong Cheng and Fei Yuan},
+  title        = {InteractScience: Programmatic and Visually-Grounded Evaluation of Interactive Scientific Demonstration Code Generation}, 
+  journal      = {arXiv preprint arXiv:2510.09724},
+  year         = {2025}
+}
+```
