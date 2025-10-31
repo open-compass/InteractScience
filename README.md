@@ -1,4 +1,19 @@
 # InteractScience: Programmatic and Visually-Grounded Evaluation of Interactive Scientific Demonstration Code Generation
+
+<p>
+  <a href='https://arxiv.org/abs/2510.09724'>
+    <img src='https://img.shields.io/badge/arXiv-2510.09724-b31b1b.svg'>
+  </a> &nbsp;&nbsp;&nbsp;
+
+  <a href="https://huggingface.co/datasets/internlm/InteractScience">
+    <img alt="HF Dataset" src="https://img.shields.io/badge/HF%20Dataset-InteractScience-FFD21F?logo=huggingface">
+  </a> &nbsp;&nbsp;&nbsp;
+
+  <a href="https://opensource.org/license/apache-2-0">
+    <img alt="Apache 2.0 License" src="https://img.shields.io/badge/License-Apache_2.0-4285f4.svg?logo=apache">
+  </a>
+</p>
+
 InteractScience is a benchmark specifically designed to evaluate the capability of large language models in generating interactive scientific demonstration code. This project provides a complete evaluation pipeline including model inference, automated testing, and multi-dimensional assessment.
 
 ![](/figs/hook.svg)
